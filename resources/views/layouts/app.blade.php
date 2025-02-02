@@ -58,7 +58,7 @@
             DevStagram - Todos los derechos reservados {{ now()->year }}
         </footer>
 
-        @livewireScripts
+        
     </body>
-    
+    @livewireScript
 </html>
